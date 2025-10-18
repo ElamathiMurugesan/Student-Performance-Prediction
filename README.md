@@ -1,0 +1,2 @@
+[Dataset – Students Performance (Kaggle)](https://www.kaggle.com/datasets/rabieelkharoua/students-performance-dataset?utm_source=chatgpt.com)
+This project focuses on analyzing and predicting student performance using a real-world dataset. Through Exploratory Data Analysis (EDA), data preprocessing, and visualization, key factors influencing student outcomes were identified. A deep learning model (MLP) was developed to predict final scores based on attributes such as study time, parental education, and absences, providing insights into academic performance patterns.
